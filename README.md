@@ -2,4 +2,4 @@
 
 # Hi *GitHub* comunity!!! :earth_africa:
 ## *I'm going to I'm going to share with you some of my secrets* :unlock: :
-##### *I love coffee* # :coffee:  # *read*  :book: # *coding* :computer: and free skate arround the city.
+# *I love coffee* :coffee:  # *read*  :book: # *coding* :computer: and free skate arround the city.
