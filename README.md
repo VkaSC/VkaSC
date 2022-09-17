@@ -8,13 +8,17 @@ I'm starting so right now I have little to share, my life is a script....
 
 **I get up**
 `git pull` 
+
 **prepare coffee** 
 `git add .`
+
 **sit at the computer to type code**
 :clock9: :clock11: :clock1230: :clock3: **...**
+
 **go to class and keep typing code**
 :clock4: :clock6: " :coffee: " :clock7: :clock830: **...**
 `git commit -m "Remember everything"`
+
 **back home:**
 `git push origin CodeSpace`
 **I collapse on the bed**
