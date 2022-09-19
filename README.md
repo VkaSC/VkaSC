@@ -1,4 +1,4 @@
-[![Hello World!!!]([![Hello World!!!](https://i.im.ge/2022/09/19/1sYWjh.Hello-World.png)](https://im.ge/i/1sYWjh))
+[![Hello World!!!](https://i.im.ge/2022/09/19/1sYWjh.Hello-World.png)
 
 # Hi GitHub comunity!!! :earth_africa:
 ## *I'm going to share with you some of my secrets* :unlock: :
