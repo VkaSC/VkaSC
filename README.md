@@ -1,6 +1,6 @@
-![Hello World!!!](https://i.im.ge/2022/09/19/1sYWjh.Hello-World.png)
-![Hello World!!!](https://lh3.googleusercontent.com/uaHqq74ucfk0DGfmLR7CRmw5JimTCbiQevI1dpnJATgua3Jya8yPHHg-f1hQIfxWzHLTjtk=s170)
-# Hi GitHub comunity!!! :earth_africa:
+![Hello World!!!](https://im.ge/i/Hello-World.1sYWjh)
+
+# Hi *GitHub* comunity!!! :earth_africa:
 ## *I'm going to share with you some of my secrets* :unlock: :
 # *I love coffee* :coffee:  # *read*  :book: # skate arround the city and of corse... # *coding* :computer: 
 
