@@ -3,7 +3,7 @@
 ## *I'm going to share with you some of my secrets* :unlock: :
 # *I love coffee* :coffee:  # *read*  :book: # skate arround the city and of corse... # *coding* :computer: 
 
-I'm starting so right now I have little to share, my life is a script....
+I'm starting so, right now I have little to share, **my life is a script....**
 
 **I get up**
 `git pull` 
