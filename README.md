@@ -1,5 +1,5 @@
 ![Hello World!!!](/assets/Hello%20World!!!.png)
-# Hi *GitHub* comunity!!! :earth_africa:
+# Hi ***GitHub*** comunity!!! :earth_africa:
 ## *I'm going to share with you some of my secrets* :unlock: :
 # *I love coffee* :coffee:  # *read*  :book: # skate arround the city and of corse... # *coding* :computer: 
 
@@ -20,7 +20,9 @@ I'm starting so right now I have little to share, my life is a script....
 
 **back home:**
 `git push origin CodeSpace`
+
 **I collapse on the bed**
 
 ## At the moment..... thats my live :information_desk_person:  but ...
-# I am happy, enthusiastic and excited
+
+#[I am happy, enthusiastic and excited](#)
